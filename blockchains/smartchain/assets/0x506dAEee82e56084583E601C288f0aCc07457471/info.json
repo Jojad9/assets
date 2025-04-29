@@ -1,5 +1,6 @@
-{
+add {
   "name": "ArbiNet",
+  
   "symbol": "ARB",
   "type": "ERC20",
   "decimals": 18,
